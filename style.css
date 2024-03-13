@@ -1,0 +1,21 @@
+body{
+  background-color:#ffccf3 ;
+}
+
+
+h1{color:#ff5ccb;
+  font-family:cursive;
+}
+h2,h3,h4,h5,h6{
+color:#ff66cf;
+font-family:cursive;
+}
+hr{width:50%;
+   border-color:#ff57e9;
+  }
+
+p{
+  font-size:14px;
+  color:#ff42ef;
+  
+}
